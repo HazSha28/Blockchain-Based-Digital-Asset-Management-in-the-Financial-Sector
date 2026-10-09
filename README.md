@@ -177,7 +177,7 @@ blockchain-digital-asset-management/
 
 Add your recorded demonstration video to the repository's GitHub Releases, or upload it to YouTube/Google Drive and add the share link here:
 
-`Demo video: [Add your public or unlisted video URL]`
+`Demo video: Blockchain_Digital_Asset_Management_Web_Demo.mp4 `
 
 Before submitting, replace illustrative screenshots with actual compilation, test, deployment, and contract-interaction screenshots. Do not publish private keys, seed phrases, `.env` files, or personal KYC documents.
 
